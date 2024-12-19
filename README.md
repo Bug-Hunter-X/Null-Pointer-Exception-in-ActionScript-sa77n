@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript bug: a null pointer exception. The bug occurs when attempting to access a property of an object that is null. The solution shows how to handle this error gracefully using an if statement to check if the object is null before attempting to access its properties.
